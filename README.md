@@ -7,7 +7,7 @@ untuk buat kartu baru kunjungi `https://faizul14.github.io/deva/`
 
 ## manual
 
-cara pakai: `https://faizul14.github.io/deva/?params`
+cara pakai: `https://faizul14.github.io/deva/?parameter`
 
 ganti `params` dengan parameter
 
@@ -18,9 +18,9 @@ daftar parameter:
 
 nama yang ulang tahun. contoh:
 
-`https://faizul14.github.io/deva/?name=Jhon Doe`
+`https://faizul14.github.io/deva/?name=Deva fitria`
 
-`https://faizul14.github.io/deva/?name=["yahya","anwar"]`
+`https://faizul14.github.io/deva/?name=["deva fitria","20.YO"]`
 
 
 **date** (opsional)
@@ -32,5 +32,5 @@ tanggal ulang tahun(format: bulan tanggal tahun jam:menit:detik). contoh:
 
 ---
 
-disarankan : `https://faizul14.github.io/deva/?name=Jhon Doe&date=12 22 1999 15:40`
+disarankan : `https://faizul14.github.io/deva/?name=deva fitria&date=12 22 1999 15:40`
 
